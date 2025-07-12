@@ -171,3 +171,10 @@
 2025-07-12 02:55:34 [main] INFO  api.tests.UserTests - *********Updated User Info*********************
 2025-07-12 02:55:34 [main] INFO  api.tests.UserTests - *********Deleting User Info*********************
 2025-07-12 02:55:35 [main] INFO  api.tests.UserTests - *********Deleted User Info*********************
+2025-07-12 06:49:15 [main] INFO  api.tests.UserTests - *********Creating User*********************
+2025-07-12 06:49:18 [main] INFO  api.tests.UserTests - **********User is created************
+2025-07-12 06:49:18 [main] INFO  api.tests.UserTests - *********Reading User Info*********************
+2025-07-12 06:49:20 [main] INFO  api.tests.UserTests - *********Updating User Info*********************
+2025-07-12 06:49:22 [main] INFO  api.tests.UserTests - *********Updated User Info*********************
+2025-07-12 06:49:22 [main] INFO  api.tests.UserTests - *********Deleting User Info*********************
+2025-07-12 06:49:23 [main] INFO  api.tests.UserTests - *********Deleted User Info*********************
